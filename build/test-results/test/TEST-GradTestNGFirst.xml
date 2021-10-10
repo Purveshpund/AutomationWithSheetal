@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GradTestNGFirst" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-10T09:10:21" hostname="IN-3GVJYD3" time="4.696">
+  <properties/>
+  <testcase name="launchFB_Application" classname="GradTestNGFirst" time="2.79"/>
+  <testcase name="launchFK_Application" classname="GradTestNGFirst" time="1.896"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (io.github.bonigarcia.wdm.cache.ResolutionCache).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 44629
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Oct 10, 2021 2:40:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
